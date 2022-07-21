@@ -1,4 +1,4 @@
-# Cashybelsuno
+# ICASHCASH MO
 
 ## SignUp
 
@@ -12,3 +12,33 @@
 
 ## Dashboard
 ![Dashboard](https://user-images.githubusercontent.com/104627180/180286526-55f7fa7d-4662-4d01-8629-85426dbed357.png)
+
+
+
+## Demo Video
+Click the link to watch
+
+## Researcher/Developer:
+* Rajab Madid
+* Marc Jesther Diana
+* Gabriel Dee
+* Reign Francine Cruz
+
+## Adviser: 
+* Jefferson A. Costales
+
+## School Name:
+Eulogio "Amang" Rodriguez Insitute of Science and Technology
+
+Nagtahan, Sampaloc, Manila, Philippines
+
+College of Arts and Sciences
+
+ITE Department
+
+## Course: 
+* Bachelor of Science in Computer Science
+
+## Date: 
+* July 23, 2022
+
